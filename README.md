@@ -8,7 +8,7 @@ Este é um jogo de adivinhar um número aleatório entre 1 e 20. O jogador deve ten
 
 ## Como Jogar
 
-- Escolha o nivel de dificuldade.
+- Escolha o nível de dificuldade.
 
  Os níveis de dificuldade serão: 
 
@@ -26,7 +26,7 @@ Este é um jogo de adivinhar um número aleatório entre 1 e 20. O jogador deve ten
 
 ## Como utilizar
 
-## Requisitos
+### Requisitos
 
 - .NET SDK (recomendado .NET 8.0 ou superior) para compilação e execução do projeto.
 
