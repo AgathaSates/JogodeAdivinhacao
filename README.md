@@ -10,11 +10,11 @@ Este é um jogo de adivinhar um número aleatório entre 1 e 20. O jogador deve ten
 
 - Escolha o nivel de dificuldade.
 
-  Os níveis de dificuldade serão: 
+ Os níveis de dificuldade serão: 
 
-  1. Fácil = 10 chances 
-  2. Normal = 5 chances     
-  3. Difícil = 3 chances
+ 1. Fácil = 10 chances 
+ 2. Normal = 5 chances     
+ 3. Difícil = 3 chances
 
 - Digite um número até suas chances acabarem ou acertar o número.
 
