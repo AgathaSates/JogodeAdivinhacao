@@ -30,7 +30,7 @@ Os níveis de dificuldade serão: 
 
 - .NET SDK (recomendado .NET 8.0 ou superior) para compilação e execução do projeto.
 
-## 1. Clone o repositório.
+### 1. Clone o repositório.
  
 ```
 git clone https://github.com/AgathaSates/JogodeAdivinhacao.git
