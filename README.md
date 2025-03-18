@@ -1,28 +1,30 @@
 # Jogo de Adivinhação
 
-![](https://i.imgur.com/LHtpLvv.gif)
+![Status Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento%20-yellow)
+
+### Demonstração
+Este é um jogo de adivinhar um número aleatório entre 1 e 20. O jogador deve tentar adivinhar este número com a quantidade de chances disponiveis de acordo com a dificuldade escolhida.
+>![](https://i.imgur.com/PkEJPYz.gif)
+
+## Índice
+
+- [Introdução](#introducao)
+- [Funcionalidades](#funcionalidades)
+- [Como Usar](#como-usar)
+- [Sobre o Projeto](#sobre-o-projeto)
+
 
 ## Introdução
 
-Este é um jogo de adivinhar um número aleatório entre 1 e 20. O jogador deve tentar adivinhar este número com a quantidade de chances disponiveis de acordo com a dificuldade escolhida.
-
-## Como Jogar
-
 - Escolha o nível de dificuldade.
-
- Os níveis de dificuldade serão: 
-
- 1. Fácil = 10 chances 
- 2. Normal = 5 chances     
- 3. Difícil = 3 chances
-
 - Digite um número até suas chances acabarem ou acertar o número.
 
 ## Funcionalidades
 
 - **Geração de Número Secreto:** Ao início do jogo, um número secreto é gerado aleatoriamente entre 1 e 20.
-- **Nível de Dificuldade:** Os jogadores podem escolher entre três níveis de dificuldade (Fácil, Normal e Difícil), que influenciam o número de tentativas.
+- **Nível de Dificuldade:** Os jogadores podem escolher entre três níveis de dificuldade , que influenciam o número de tentativas.
 - **Dica:** Após cada tentativa, o jogo fornece uma dica indicando se o número escolhido é maior ou menor que o número secreto.
+- **Validação de entrada:** Garante que apenas as opções válidas sejam aceitas. 
 
 ## Como utilizar
 
