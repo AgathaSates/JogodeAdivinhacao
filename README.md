@@ -1,55 +1,55 @@
-# Jogo de Adivinhação
+# Jogo de AdivinhaÃ§Ã£o
 
-![Status Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento%20-yellow)
+![Status Finalizado](https://img.shields.io/badge/Status-Finalizado-green?color=Green)
 
-### Demonstração
-Este é um jogo de adivinhar um número aleatório entre 1 e 20. O jogador deve tentar adivinhar este número com a quantidade de chances disponiveis de acordo com a dificuldade escolhida.
+### DemonstraÃ§Ã£o
+Este Ã© um jogo de adivinhar um nÃºmero aleatÃ³rio entre 1 e 20. O jogador deve tentar adivinhar este nÃºmero com a quantidade de chances disponiveis de acordo com a dificuldade escolhida.
 >![](https://i.imgur.com/PkEJPYz.gif)
 
-## Índice
+## Ãndice
 
-- [Introdução](#introducao)
+- [IntroduÃ§Ã£o](#introducao)
 - [Funcionalidades](#funcionalidades)
 - [Como Usar](#como-usar)
 - [Sobre o Projeto](#sobre-o-projeto)
 
 
-## Introdução
+## IntroduÃ§Ã£o
 
-- Escolha o nível de dificuldade.
-- Digite um número até suas chances acabarem ou acertar o número.
+- Escolha o nÃ­vel de dificuldade.
+- Digite um nÃºmero atÃ© suas chances acabarem ou acertar o nÃºmero.
 
 ## Funcionalidades
 
-- **Geração de Número Secreto:** Ao início do jogo, um número secreto é gerado aleatoriamente entre 1 e 20.
-- **Nível de Dificuldade:** Os jogadores podem escolher entre três níveis de dificuldade , que influenciam o número de tentativas.
-- **Dica:** Após cada tentativa, o jogo fornece uma dica indicando se o número escolhido é maior ou menor que o número secreto.
-- **Validação de entrada:** Garante que apenas as opções válidas sejam aceitas. 
+- **GeraÃ§Ã£o de NÃºmero Secreto:** Ao inÃ­cio do jogo, um nÃºmero secreto Ã© gerado aleatoriamente entre 1 e 20.
+- **NÃ­vel de Dificuldade:** Os jogadores podem escolher entre trÃªs nÃ­veis de dificuldade , que influenciam o nÃºmero de tentativas.
+- **Dica:** ApÃ³s cada tentativa, o jogo fornece uma dica indicando se o nÃºmero escolhido Ã© maior ou menor que o nÃºmero secreto.
+- **ValidaÃ§Ã£o de entrada:** Garante que apenas as opÃ§Ãµes vÃ¡lidas sejam aceitas. 
 
 ## Como utilizar
 
 ### Requisitos
 
-- .NET SDK (recomendado .NET 8.0 ou superior) para compilação e execução do projeto.
+- .NET SDK (recomendado .NET 8.0 ou superior) para compilaÃ§Ã£o e execuÃ§Ã£o do projeto.
 
-### 1. Clone o repositório.
+### 1. Clone o repositÃ³rio.
  
 ```
 git clone https://github.com/AgathaSates/JogodeAdivinhacao.git
 ```
-### 2. Abra o terminal ou o prompt de comando e navegue até a pasta raiz
+### 2. Abra o terminal ou o prompt de comando e navegue atÃ© a pasta raiz
 
 ```
 cd jogodeadivinhacao
 ```
 
-### 3. Utilize o comando abaixo para restaurar as dependências do projeto.
+### 3. Utilize o comando abaixo para restaurar as dependÃªncias do projeto.
 
 ```
 dotnet restore
 ```
 
-### 4. Navegue até a pasta do projeto
+### 4. Navegue atÃ© a pasta do projeto
 
 ```
 cd JogodeAdivinhacao.ConsoleApp
